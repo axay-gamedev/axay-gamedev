@@ -1,4 +1,4 @@
-# Hi 👋! My name is Axay and I'm a CS Student, from India.
+# Hi 👋! My name is Akshay
 
 ---
 
