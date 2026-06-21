@@ -19,15 +19,6 @@
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
-## 🌐 Connect with Me
-
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
 ## 🧩 LeetCode Stats
 
 [![Akshay's LeetCode Stats](https://leetcard.jacoblin.cool/akshaylessthan10k?theme=radical)](https://leetcode.com/u/akshaylessthan10k)
@@ -37,4 +28,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axay-gamedev&theme=radical)
 
 ---
+
+
+## 🌐 Connect with Me
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+
 ⭐️ From [axay-gamedev](https://github.com/axay-gamedev)
