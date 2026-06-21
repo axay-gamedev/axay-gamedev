@@ -30,7 +30,7 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=akshaylessthan10k-&theme=radical)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=akshaylessthan10k-)](https://leetcode.com/akshaylessthan10k-)
 
 ## 📊 GitHub Activity
 
