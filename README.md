@@ -30,7 +30,7 @@
 
 ## 🧩 LeetCode Stats
 
-[![Akshay's LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/u/akshaylessthan10k)
+[![Akshay's LeetCode Stats](https://leetcard.jacoblin.cool/akshaylessthan10k?theme=radical)](https://leetcode.com/u/akshaylessthan10k)
 
 ## 📊 GitHub Activity
 
