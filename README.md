@@ -30,7 +30,8 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-badge-api.bishal-9933.workers.dev/?username=akshaylessthan10k-)
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=akshaylessthan10k-)](https://leetcode.com/akshaylessthan10k-)
+
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axay-gamedev&theme=radical)
