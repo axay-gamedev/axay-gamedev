@@ -1,11 +1,8 @@
-# Hi 👋! My name is Akshay
+# Hi! My name is Akshay
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=axay-gamedev&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axay-gamedev&layout=compact&theme=radical" height="180"/>
-</p>
+
 
 ## 🛠️ Tech Stack
 
