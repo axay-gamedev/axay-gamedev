@@ -1,36 +1,33 @@
-# Hi! My name is Akshay
+# Akshay
+
+First-year B.Tech student building thoughtful web experiences and exploring applied AI.
+
+[GitHub](https://github.com/axay-gamedev) · [LeetCode](https://leetcode.com/u/akshaylessthan10k)
 
 ---
 
+### About
 
+- Full-stack development with React, Node.js, Express, and MongoDB
+- Exploring Python, data analysis, and machine learning
+- Interested in building useful products with clean, considered design
 
-## 🛠️ Tech Stack
+### Selected work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=unity" />
-</p>
+- [SkillFORGE](https://github.com/axay-gamedev/SkillForge) — a project focused on learning and building skills
+- [Photobooth](https://photobooth-zenm.onrender.com/) — a web-based photobooth experience
 
-## 🧩 LeetCode Stats
+### Tools
 
-[![Akshay's LeetCode Stats](https://leetcard.jacoblin.cool/akshaylessthan10k?theme=radical)](https://leetcode.com/u/akshaylessthan10k)
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axay-gamedev&theme=radical)
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB` · `Python` · `C++` · `C#` · `Unity`
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axay-gamedev&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axay-gamedev&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="140" />
+</p>
 
-## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-
-⭐️ From [axay-gamedev](https://github.com/axay-gamedev)
+<p align="center">
+  <sub>Always learning. Always building.</sub>
+</p>
