@@ -5,7 +5,10 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter" height="48" alt="Python and Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nextjs,express,mysql" />
