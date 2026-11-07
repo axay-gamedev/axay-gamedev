@@ -2,18 +2,16 @@
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,numpy,pandas,matplotlib" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,nextjs,express,mysql" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=git,vercel,unity" />
 </p>
 
 ## 🧩 LeetCode Stats
@@ -25,7 +23,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axay-gamedev&theme=radical)
 
 ---
-
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
